@@ -1,0 +1,30 @@
+// Here you can add other styles
+
+
+.c-header.c-header-fixed{
+    top:0px;
+}
+
+.click-file{
+    cursor:pointer;
+}
+.er-danger{
+    border-color: #e55353;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem #e5535361;
+    border-radius: 0.25rem !important;
+  }
+  .invalid-feedback{
+    display: block;
+  }
+.tit{
+  /*height: 45px;*/
+}
+.card-body hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid #636f83;
+    width: 40%;
+    border-radius: 10px;
+}
